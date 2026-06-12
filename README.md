@@ -114,7 +114,7 @@ NetBeans IDE (recomendado)
 MySQL / MariaDB server
 JDBC driver (incluido em /lib)
 
-<p style="font-weight: bold">Instalação</p>
+<p style="font-weight: bold;">Instalação</p>
 
 git clone https://github.com/Excalibur202/ICE.git
 
