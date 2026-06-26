@@ -114,10 +114,11 @@ NetBeans IDE (recomendado)
 MySQL / MariaDB server
 JDBC driver (incluido em /lib)
 
-<p style="font-weight: bold;">Instalação</p>
+###Instalação
 
+```
 git clone https://github.com/Excalibur202/ICE.git
-
+```
 1. Abrir projeto em NetBeans
 2. Configurar o banco de dados
 3. Verificar que MySQL/MariaDB está em execução
