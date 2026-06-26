@@ -66,7 +66,7 @@ O projeto enfatiza:
 ---
 
 ## Diagrama de Fluxo de Dados
-
+<pre>
 User Action
     ↓
 Swing UI (JFrame)
@@ -78,7 +78,7 @@ DBWorker (JDBC Layer)
 MySQL / MariaDB
     ↓
 Results returned to UI
-
+</pre>
 ---
 
 ## Libraries
