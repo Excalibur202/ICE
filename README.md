@@ -110,8 +110,11 @@ O projeto inclui um conjunto de prévias da interface do usuário:
 Pré-requisitos:
 
 Java JDK 8+
+
 NetBeans IDE (recomendado)
+
 MySQL / MariaDB server
+
 JDBC driver (incluido em /lib)
 
 ### Instalação
